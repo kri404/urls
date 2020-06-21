@@ -1,0 +1,59 @@
+Phish
+----------------------------
+https://amp.kitploit.com/2020/06/formphish-auto-phishing-form-based.html?amp=1&m=1
+
+
+Scanners
+-----------------
+- vounrability scanners
+https://github.com/greenbone/openvas
+https://github.com/1N3/Sn1per
+- web vounrability scanners
+https://github.com/sullo/nikto/blob/master/README.md
+- wordpress
+https://github.com/The404Hacking/wpscan?files=1
+
+
+K00l 1337 maps
+-----------------------
+https://cybermap.kaspersky.com/?utm_source=twitter&utm_medium=social&utm_campaign=uk_cybermap_db0077&utm_content=sm-post&utm_term=uk_twitter_organic_q3y77yyfij6zmsu
+
+
+Servers do cracking
+--------------------------------
+https://github.com/mxrch/penglab
+
+
+Prepare for OSCP
+------------------
+https://github.com/ex16x41/OSCP/blob/master/methodology-notes.md
+
+
+Email cracking
+---------------------
+https://github.com/D4Vinci/Cr3dOv3r
+
+
+AV bypass
+-------------
+https://github.com/ReddyyZ/GhostShell/blob/master/README.md
+
+
+Payloads
+--------
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+
+
+
+Fuzzing
+----------------------
+https://github.com/ffuf/ffuf
+
+
+
+
+
+
+
+
